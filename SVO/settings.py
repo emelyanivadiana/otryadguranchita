@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#16v%#rx3y^!82wnc&k_1s$%mdml2o9=!y3x@&(@$llhe_mb(9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['otryadguranchita.pythonanywhere.com']
+ALLOWED_HOSTS = ['otryadguranchita.vercel.app']
 
 
 # Application definition
